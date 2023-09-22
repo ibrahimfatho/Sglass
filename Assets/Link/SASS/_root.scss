@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+/// Color
+
+$main-color : #bcc4f2;
+$logo-color : #d7cff4;
+$sec-color : #d5dade;
+$h-color : #012334;
+$bg-color : #141414;
+$white-color : #fff;
+$black-color : #000;
+$gray-color : #6f6e6e;
+$btn-color : #eb19b7;
+
